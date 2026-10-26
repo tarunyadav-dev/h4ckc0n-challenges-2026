@@ -33,6 +33,17 @@ You're assigned to investigate. Six challenges stand between you and the truth.
 
 ---
 
+## Things for this repository
+
+- This repo contains the challenge description
+- the actual code and how i Created
+- It's on you whether you see the flag, and continue to another
+- There is detail writeup for each challenge, don't read it before attempting the challenge. They reveal everything and every step.
+- Folder structure are intended for hosting also, so be cautious before opening any file.
+- See the png image in each challenge, it will tell you what to open only
+- For web ones, what you need to host on your pc. See the intended md, how to run it without looking a single line of code.
+- It's for the enjoyment and totally depends on you how you use it. The file hosted digitally might get expired so i can't do anything related to it(if it get).
+
 **Six challenges. One investigation. Question what you see.**
 
 *The truth is closer than you think.*
