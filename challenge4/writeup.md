@@ -116,3 +116,5 @@ Challenge 4 should make the repository discoverable without directly explaining 
 6. **Fragment recovery:** Extract the numeric fragments and preserve their order.
 7. **Challenge 5:** Use the recovered information to proceed through the web challenge.
 8. **Challenge 6:** Revisit the evidence and reconstruct the final flag.
+
+flag : d4rk{2_3_8_7_11_16_17_23_19_13}
