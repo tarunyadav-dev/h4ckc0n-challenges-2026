@@ -1,0 +1,7 @@
+The truth is scattered across three previous challenges2, 4 and 6. Find the fragments, put them together, and discover who was behind it all.
+
+You may know who is echo by challenge 4 but for the flag, you need to reinvestigate the three mentioned challenges
+
+fragment 1: it is encrypted, so if you find any encrypted word, that's the only fragment
+fragment 2: Try to find a name
+fragment 3: try to find a line. It is a hidden exploit so it directly says, here is a line, i guess important for you.
