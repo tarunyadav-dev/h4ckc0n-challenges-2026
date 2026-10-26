@@ -1,0 +1,3 @@
+The flag is the password for next challenge, if the next challenge doesn't open with it, it means the flag is wrong
+
+See the numbers carefully. the pattern of next challenge is derived from it
