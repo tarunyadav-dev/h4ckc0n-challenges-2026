@@ -20,6 +20,3 @@ DCP Sharma has provided you with an encrypted message that may contain the crede
 mJ4owDbuJvW7uegkJpI+1Kce5Bff2jtCSSj0t2/KGXndT7P1oZ9S+PRZTKWEiEseAtT4ErbUulX0WgQuF8LAW9XnuOsTpTWO85vc6NlIPj57OH4h+DQVkn+qXWaW1aU/25ggog+HVuXfMzb1FMD73Dv8MIQdCHTzCw5pE9nqiEAY1Gk3FuBgdRCGsY0sTuHgFydZ8MRIBbDGssnzHIZKxcfrgs6AmzZqAIQB44/9W3BofG3LS/xnNMD1z+v6bB65cyFFLJNCp4gpfUkBWnv/N2ELe66SLest6OU5TIH9Cs+UfJr5kQLfeFd8eifmW+5lKDSGo3moAinAW0xw87JJUQ==
 ```
 
-**Hint 1:** The message is more than just sound. Pay attention to every possible reading.
-
-**Hint 2:** A short address can lead somewhere much longer.
