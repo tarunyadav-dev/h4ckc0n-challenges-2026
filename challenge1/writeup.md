@@ -7,7 +7,7 @@
 
 1. **Inspect the provided audio.** The audio contains a Morse-code clue. Decode it using the [Morse Code Audio Decoder](https://themorselab.com/morse-code-audio-decoder/).
 
-2. **Recover the private-key URL.** Use the decoded clue to identify the shortened URL leading to the RSA private key. You have to make combination, which letter is caps and which one is small.
+2. **Recover the private-key URL.** Use the decoded clue to identify the shortened URL leading to the RSA private key. You have to see the left and right audio to know which letter is caps and which one is small.
 
    - Short URL: https://shorturl.at/tVBxt
    - Private-key file: https://www.image2url.com/r2/default/files/1792782290262-cb6dabe0-3e6d-4a4e-bf23-d03d888ab133.txt
