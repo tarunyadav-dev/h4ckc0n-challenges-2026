@@ -4,4 +4,4 @@ You may know who is echo by challenge 4 but for the flag, you need to reinvestig
 
 fragment 1: it is encrypted, so if you find any encrypted word, that's the only fragment
 fragment 2: Try to find a name
-fragment 3: try to find a line. It is a hidden exploit so it directly says, here is a line, i guess important for you.
+fragment 3: Try to find the famous social media account in real life by guessing who the real hacker is. It's description is, guess, who obviously follow echo, and whom echo is obviously following.
