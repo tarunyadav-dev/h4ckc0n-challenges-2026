@@ -1,28 +1,30 @@
-# Challenge 5 — Mirror Investigation
+# ECHO — Challenge 5
 
-This folder contains the infrastructure and three web challenges.
+## Run locally
 
-## Contents
+Requirements: Docker Engine and Docker Compose.
 
-- `infra.zip` — Shared infrastructure for password and secret-key submission.
-- `challenge-5.1.zip` — Web Challenge 5.1
-- `challenge-5.2.zip` — Web Challenge 5.2
-- `challenge-5.3.zip` — Web Challenge 5.3
-- `behind the login.png` — Challenge description.
-
-## Setup & Execution
-
-1. Extract each ZIP file into a separate folder.
-2. Open the extracted folder for the component you want to run.
-3. Follow its included `README.md` for any component-specific instructions.
-4. For the infrastructure and all three challenges, the standard Docker startup command is:
+1. Extract the ZIP archive.
+2. Open a terminal in the extracted `echo/` directory.
+3. Run:
 
 ```bash
-docker compose up
+docker compose up --build -d
 ```
 
-5. Keep the required containers running while working on the challenges.
+Open **http://localhost:8080/**.
 
-**Important:** The infrastructure is a supporting component, not an exploitation challenge. Do not modify its configuration unless instructed.
+All services share this public port:
 
-Good luck with the investigation.
+- `/` — ECHO portal
+- `/challenge5.1/`
+- `/challenge5.2/`
+- `/challenge5.3/`
+
+Stop the stack with:
+
+```bash
+docker compose down
+```
+
+**Security:** `challenge5/.env` contains the pattern, challenge keys, session secret, and final flag. Keep the source archive and built image private; replace these values before deploying another instance.
